@@ -1,4 +1,4 @@
-# Day 6 – Static Website on Public S3 Bucket
+# Day 06 – Static Website on Public S3 Bucket
 
 ## ✅ What I Did
 - Created a public S3 bucket

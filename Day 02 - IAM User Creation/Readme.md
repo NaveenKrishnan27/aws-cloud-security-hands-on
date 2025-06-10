@@ -1,4 +1,4 @@
-# Day 2 – IAM User & Group Creation
+# Day 02 – IAM User & Group Creation
 
 ## ✅ What I Did
 - Created IAM group: `DevTeam`

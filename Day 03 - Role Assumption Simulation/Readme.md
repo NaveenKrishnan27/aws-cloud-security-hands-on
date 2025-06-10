@@ -1,4 +1,4 @@
-# Day 3 – Simulating IAM Role Assumption
+# Day 03 – Simulating IAM Role Assumption
 
 ## ✅ What I Did
 - Created a custom IAM role with S3 access

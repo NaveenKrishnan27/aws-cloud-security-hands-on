@@ -1,4 +1,4 @@
-# Day 1 – AWS Cloud Practitioner Course
+# Day 01 – AWS Cloud Practitioner Course
 
 ## ✅ What I Did
 - Completed full AWS Cloud Practitioner Course (FreeCodeCamp)

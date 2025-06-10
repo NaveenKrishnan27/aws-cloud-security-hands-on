@@ -1,4 +1,4 @@
-# Day 7 – Accessing Private EC2 via Bastion Host
+# Day 07 – Accessing Private EC2 via Bastion Host
 
 ## ✅ What I Did
 - Created a custom VPC with public and private subnets

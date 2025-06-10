@@ -1,4 +1,4 @@
-# Day 5 – Fine-grained S3 Access Policies
+# Day 05 – Fine-grained S3 Access Policies
 
 ## ✅ What I Did
 - Attached IAM policy to access specific bucket

@@ -1,4 +1,4 @@
-# Day 8 – Secure S3 Bucket Access via IP Restriction
+# Day 08 – Secure S3 Bucket Access via IP Restriction
 
 ## ✅ What I Did
 - Created a private S3 bucket

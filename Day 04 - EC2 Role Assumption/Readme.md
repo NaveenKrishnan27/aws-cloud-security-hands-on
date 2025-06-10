@@ -1,4 +1,4 @@
-# Day 4 – IAM Role Assumption via EC2
+# Day 04 – IAM Role Assumption via EC2
 
 ## ✅ What I Did
 - Attached IAM role to EC2 instance

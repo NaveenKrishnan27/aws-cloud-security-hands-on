@@ -1,4 +1,4 @@
-# Day 9 – Bucket Versioning & MFA Delete
+# Day 09 – Bucket Versioning & MFA Delete
 
 ## ✅ What I Did
 - Created a new S3 bucket
