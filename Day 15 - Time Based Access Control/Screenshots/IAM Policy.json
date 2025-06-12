@@ -1,0 +1,23 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "AllowS3OnlyDuringBusinessHours",
+      "Effect": "Allow",
+      "Action": 
+        "s3:*",
+      "Resource": [
+        "arn:aws:s3:::day15-time-bucket",
+        "arn:aws:s3:::day15-time-bucket/*"
+      ],
+      "Condition": {
+        "DateGreaterThan": {
+          "aws:CurrentTime": "2025-06-10T03:30:00Z"
+        },
+        "DateLessThan": {
+          "aws:CurrentTime": "2025-06-10T06:30:00Z"
+        }
+      }
+    }
+  ]
+}
