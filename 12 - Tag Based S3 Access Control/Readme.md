@@ -6,7 +6,6 @@
 - Verified access based on tag presence
 
 ## 🧠 Key Learnings
-- `aws:RequestTag`, `aws:ExistingObjectTag`
 - Fine-grained access using tags
 - Real-world compliance use cases
 

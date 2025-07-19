@@ -5,7 +5,7 @@
 			"Sid": "ExplicitDenyFromUnapprovedIPs",
 			"Effect": "Deny",
 			"Principal": {
-				"AWS": "arn:aws:iam::069074629172:user/normal-user"
+				"AWS": "arn:aws:iam::<ID>:user/normal-user"
 			},
 			"Action": [
 				"s3:GetObject",
@@ -17,7 +17,7 @@
 			],
 			"Condition": {
 				"NotIpAddress": {
-					"aws:SourceIp": "49.207.177.87/32"
+					"aws:SourceIp": <SourceIP>
 				}
 			}
 		},
@@ -25,7 +25,7 @@
 			"Sid": "AllowSpecificUserFromApprovedIP",
 			"Effect": "Allow",
 			"Principal": {
-				"AWS": "arn:aws:iam::069074629172:user/normal-user"
+				"AWS": "arn:aws:iam::<ID>:user/normal-user"
 			},
 			"Action": [
 				"s3:GetObject",
@@ -37,7 +37,7 @@
 			],
 			"Condition": {
 				"IpAddress": {
-					"aws:SourceIp": "49.207.177.87/32"
+					"aws:SourceIp": <SourceIP>
 				}
 			}
 		}

@@ -1,7 +1,7 @@
 # Day 10 – Lifecycle Policies
 
 ## ✅ What I Did
-- Created a lifecycle rule to transition objects to Glacier
+- Created a lifecycle rule to transition objects to StandardIA
 - Validated the policy with CLI
 - Uploaded test objects
 

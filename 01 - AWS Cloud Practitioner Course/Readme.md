@@ -2,6 +2,7 @@
 
 ## ✅ What I Did
 - Completed full AWS Cloud Practitioner Course (FreeCodeCamp)
+- Created an AWS account
 
 ## 🧠 Key Learnings
 - Overview of AWS services

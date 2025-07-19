@@ -9,7 +9,7 @@
 ## 🧠 Key Learnings
 - Permissions boundaries define the maximum allowed permissions  
 - Even if IAM policies grant access, boundaries can restrict it further  
-- Effective permissions = IAM policy ∩ permissions boundary  
+- Effective permissions = IAM policy and permissions boundary  
 - Useful for managing over-permissioning in large environments  
 
 ## 📸 Screenshots
